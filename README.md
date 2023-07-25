@@ -1,4 +1,4 @@
-![logo](coding.gif)
+![logo](https://github.com/PratikAnand26/PratikAnand26/blob/main/coding.gif)
 <h1 align="center">Hi 👋, I'm Pratik Anand</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
