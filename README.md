@@ -1,4 +1,4 @@
-![logo](https://github.com/PratikAnand26/PratikAnand26/blob/main/Dark%20Modern%20Photo%20Mountain%20And%20Sky%20Desktop%20Wallpaper%20-%20Desktop%20Wallpaper%20-%20Google%20Chrome%207_25_2023%209_26_12%20PM.png)
+![logo](https://github.com/PratikAnand26/PratikAnand26/blob/main/canva.png)
 <h1 align="center">Hi 👋, I'm Pratik Anand</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
